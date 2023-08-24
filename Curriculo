@@ -1,0 +1,27 @@
+  <!DOCTYPE html>
+<html lang="ptbr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curriculo</title>
+
+</head>
+<body>
+    <center>
+<h2>Sávio Mariano, 15 anos.</h2>
+<h2>estudante</h2>
+    </center>
+
+<h3>Objetivo:</h3>
+<p>Meu objetivo é entrar em uma empresa e ganhar dinheiro, e um bom progamador</p>
+
+<h3>Expêriencia</h3>
+<p>tenho Expêriencia com coisas domiciliares e aprendendo linguagens de progamação</p>
+
+<h3>Educação</h3>
+<p>EEPP </p>
+<h3>Habilidades</h3>
+<p>Interação em redes socias e futuramente TI</p>
+</body>
+</html>
